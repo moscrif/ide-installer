@@ -20,16 +20,16 @@
 									<key>BUNDLE_POSTINSTALL_PATH</key>
 									<dict>
 										<key>PATH</key>
-										<string>getright</string>
+										<string>/Users/miro/Work/moscrif/ide-installer/macOsX/Package/getright</string>
 										<key>PATH_TYPE</key>
-										<integer>1</integer>
+										<integer>0</integer>
 									</dict>
 									<key>CHILDREN</key>
 									<array/>
 									<key>GID</key>
-									<integer>80</integer>
+									<integer>0</integer>
 									<key>PATH</key>
-									<string>../../../../../../Desktop/MoscrifIDE.app</string>
+									<string>../../../../../Desktop/MoscrifIDE.app</string>
 									<key>PATH_TYPE</key>
 									<integer>1</integer>
 									<key>PERMISSIONS</key>
@@ -812,7 +812,7 @@
 			<key>BUILD_PATH</key>
 			<dict>
 				<key>PATH</key>
-				<string>../../../../../../Desktop</string>
+				<string>../../../../../Desktop</string>
 				<key>PATH_TYPE</key>
 				<integer>1</integer>
 			</dict>
