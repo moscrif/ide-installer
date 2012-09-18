@@ -1,0 +1,3 @@
+#!/bin/sh
+chmod -R a+x+w /Applications/MoscrifIDE.app/Contents/Resources/Moscrif.app
+chmod -R a+x+w /Applications/MoscrifIDE.app/Contents/Resources/publish
