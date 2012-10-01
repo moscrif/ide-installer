@@ -1,7 +1,7 @@
 			README
 			======
 
-	    Moscrif SDK 2012q3.156 release
+	    Moscrif SDK 2012q3a.157 release
 	    ------------------------------
 
 Welcome to the Moscrif SDK release!  
