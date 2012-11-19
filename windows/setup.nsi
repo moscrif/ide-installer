@@ -203,7 +203,7 @@ SectionEnd
   SetOutPath "$INSTDIR"
   SetOverwrite try
   
-  File /r ..\..\test\MoscrifSDK-Windows\* 
+  File /r ..\..\..\test\MoscrifSDK-Windows\*
 
 ; Shortcuts
   !insertmacro MUI_STARTMENU_WRITE_BEGIN Application
